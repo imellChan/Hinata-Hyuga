@@ -24,17 +24,17 @@
 
   // Other
   global.ownername = 'Riy' // Ganti Jadi Namamu
-  global.owner = ['6281575886399','6281575886399','6285813334446'] // Kalo Mau Lebih Tambahin Aja
-  global.ownernomer = '6281575886399' // Owner Utama Istilahnya
-  global.botname = 'Hinata Hyuga' // Ganti Jadi Nama Botmu
-  global.packname = 'Hinata Hyuga' // Sticker Weem
-  global.author = 'Riy' // Sticker Weem
-  global.webme = 'https://api-riy.herokuapp.com' // Ganti Sama Web Mu
+  global.owner = ['6283830815715','6283830815715','6283830815715'] // Kalo Mau Lebih Tambahin Aja
+  global.ownernomer = '6283830815715' // Owner Utama Istilahnya
+  global.botname = 'Y𝖆кuz𝖆水' // Ganti Jadi Nama Botmu
+  global.packname = '水' // Sticker Weem
+  global.author = '水' // Sticker Weem
+  global.webme = 'https://sociabuzz.com/yakuzaaa_27/tribe' // Ganti Sama Web Mu
   global.linkgroup = 'https://chat.whatsapp.com/HZhLynp6E9QKNrRFtUp26T' // Ganti Sama Link Gc Mu
   global.sessionName = 'session'
-  global.youtube = 'https://youtube.com/channel/UCtM-pDaaGVRe4BJ7w4qE4Bw' // Ganti Sama Link Yt Mu
-  global.github = 'https://github.com/riychdwayne' // Ganti Sama Link Github Mu
-  global.instagram = 'https://instagram.com/riychdwayne' // Ganti Sama Link Ig mu
+  global.youtube = 'https://youtube.com/channel/UCtM-pDaaGVRe4BJw4qE4Bw' // Ganti Sama Link Yt Mu
+  global.github = 'https://github.com/水' // Ganti Sama Link Github Mu
+  global.instagram = 'https://instagram.com/水' // Ganti Sama Link Ig mu
 
   // Background Setiap Menu
   global.bg1 = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=water-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
